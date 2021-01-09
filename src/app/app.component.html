@@ -1,0 +1,4 @@
+<app-new-card [user]="user" *ngIf="user ; else loadingblock"></app-new-card>
+<ng-template #loadingblock>
+  Loading
+</ng-template>

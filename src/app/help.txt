@@ -1,0 +1,3 @@
+Generate Serveice : ng generate service hero 
+Generate component  : ng g component card/card
+bootstrap library: npm i bootstrap
